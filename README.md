@@ -1,2 +1,16 @@
 # 2Dmap-experimental-data
 2D map of experimental dataset (vortices in superconductor affected by magnetic field)
+
+There is set of experimental data files: 
+
+- S-curve168.txt 
+- ...
+- S-curve468.txt.
+
+Each file corresponds to the specific magnetic field applied during the measurement (fields set: 7 - 10 mT, step 0.01 mT).
+
+File contains 2 columns: changing parameter (level) and response of the sample (critical current).
+
+__2D map: X: level, Y: magnetic field, Z: current__
+
+![Output figure](https://github.com/andr-nau/2Dmap-vortex-experiment/blob/master/Final_2Dmap.png "Sample result")
