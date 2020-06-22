@@ -1,7 +1,7 @@
 # 2Dmap-experimental-data
 2D map of experimental dataset (vortices in superconductor affected by magnetic field)
 
-INPUT:
+__INPUT:__
 
 There is set of experimental data files: 
 
@@ -13,9 +13,10 @@ Each file corresponds to the specific magnetic field applied during the measurem
 
 File contains 2 columns: changing parameter (level) and response of the sample (critical current).
 
-OUTPUT:
+__OUTPUT:__
 
-__2D map: X: level, Y: magnetic field, Z: current__
+2D map: X: level, Y: magnetic field, Z: current.
+
 
 ![Output figure](https://github.com/andr-nau/2Dmap-vortex-experiment/blob/master/Final_2Dmap.png "Sample result")
 
