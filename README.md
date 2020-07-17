@@ -1,5 +1,5 @@
 # 2Dmap-experimental-data
-2D map of experimental dataset (vortices in superconductor affected by magnetic field)
+2D map of experimental dataset (vortices movement in superconductor affected by magnetic field)
 
 __INPUT:__
 
